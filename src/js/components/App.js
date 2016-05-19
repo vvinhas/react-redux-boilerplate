@@ -1,7 +1,13 @@
 import React from 'react'
 
 const App = () => (
-	<h1 className="title">Hello World!</h1>
+	<div className="hero is-success is-bold is-fullheight">
+		<div className="hero-body">
+			<div className="container has-text-centered">
+				<h1 className="title is-1">You made it!</h1>
+			</div>
+		</div>
+	</div>
 )
 
 export default App
