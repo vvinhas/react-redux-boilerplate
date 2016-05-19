@@ -12,13 +12,17 @@ This is a simple boilerplate to let you quickly put your React+Redux app up and 
 
 # Folder Structure
 ```
-src/ --> Hold the source files of the application
- |-- js/ --> All your javascript files goes here
-    |-- actions/ --> Action Creators
-    |-- components/ --> React Presentational Components
-            |-- App.js --> App Component
-    |-- containers/ --> Container Components
-    |-- reducers/ --> Store Reducers
-    |       |-- index.js --> Combine Reducers script
-    +-- app.js --> App bootstrap script
+src/                         --> Hold the source files of the application
+ |-- js/                     --> All your javascript files goes here
+    |-- actions/             --> Action Creators
+    |-- components/          --> React Presentational Components
+            |-- App.js       --> App Component
+    |-- containers/          --> Container Components
+    |-- reducers/            --> Store Reducers
+    |       |-- index.js     --> Combine Reducers script
+    +-- app.js               --> App bootstrap script
 ```
+
+# Addons
+This package comes with [Bulma.io](http://bulma.io/) and [FontAwesome](http://fontawesome.io/) CDN's out of the box. If you don't need or don't 
+want to use them, open the `index.html` file and remove the `<link>` tags.
