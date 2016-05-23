@@ -3,14 +3,14 @@ Welcome to React+Redux Boilerplate.
 
 This is a simple boilerplate to let you quickly put your React+Redux app up and running.
 
-# Installation
+## Installation
 1. Clone this repository: `git clone https://github.com/vvinhas/react-redux-boilerplate.git`
 2. Run `npm install`
 3. Start the Webpack Dev Server with `npm run dev`
 5. Head to `http://lvh.me:8080`
 6. That't it! :)
 
-# Folder Structure
+## Folder Structure
 ```
 src/                         --> Hold the source files of the application
  |-- js/                     --> All your javascript files goes here
@@ -23,6 +23,6 @@ src/                         --> Hold the source files of the application
     +-- app.js               --> App bootstrap script
 ```
 
-# Addons
+## Addons
 This package comes with [Bulma.io](http://bulma.io/) and [FontAwesome](http://fontawesome.io/) CDN's out of the box. If you don't need or don't 
 want to use them, open the `index.html` file and remove the `<link>` tags.
