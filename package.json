@@ -14,11 +14,13 @@
     "babel-preset-react": "^6.3.13",
     "babel-preset-stage-0": "^6.3.13",
     "classnames": "^2.2.5",
+    "immutable": "^3.8.1",
     "react": "^0.14.6",
     "react-dom": "^0.14.6",
     "react-redux": "^4.4.5",
     "react-router": "^2.4",
     "redux": "^3.5.2",
+    "redux-thunk": "^2.1.0",
     "webpack": "^1.12.9",
     "webpack-dev-server": "^1.14.1"
   },
