@@ -1,4 +1,7 @@
-import React from 'react'
+/**
+ * This is your main component. Feel free to change it however you want.
+ */
+import React from 'react';
 
 const App = () => (
 	<div className="hero is-success is-bold is-fullheight">
@@ -8,6 +11,6 @@ const App = () => (
 			</div>
 		</div>
 	</div>
-)
+);
 
-export default App
+export default App;

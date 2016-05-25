@@ -28,5 +28,8 @@
     "dev": "webpack-dev-server --inline --content-base src --history-api-fallback --hot"
   },
   "author": "Vinicius Vinhas",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "react-logger": "^1.0.0"
+  }
 }
