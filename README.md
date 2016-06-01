@@ -4,6 +4,10 @@ Welcome to React+Redux Boilerplate.
 This is a simple boilerplate to let you quickly put your React+Redux app up and running. 
 It follows the a basic structure for Redux applications [as proposed by Dan Abramov](http://stackoverflow.com/questions/32634320/how-to-structure-redux-components-containers)
 
+## Dependencies
+You will need [NodeJS](http://nodejs.org) installed in your machine to be able to run `npm` commands. 
+Also, you will need WebPack as a global dependency. To do this, simply run `npm install -g webpack`.
+
 ## Installation
 1. Clone this repository: `git clone https://github.com/vvinhas/react-redux-boilerplate.git`
 2. Run `npm install`
